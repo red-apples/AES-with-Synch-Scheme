@@ -2,7 +2,6 @@ import collections
 import operator
 import csv
 
-# from AESOO import AES as aes
 import AES as aes
 
 # IV Fill is the original fill of IV
